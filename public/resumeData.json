@@ -1,0 +1,144 @@
+{
+  "main": {
+    "name": "Jordan Black",
+    "occupation": "Software Engineer",
+    "description": "I eat, sleep and breathe React",
+    "image": "profilepic.jpg",
+    "bio": "Hi there! I am Jordan and I've been coding for over 2 years now after spending the better part of a decade working in mental healthcare. As a Full Stack developer I've built several fully fledged applications which can all be found in my works section. Over the past year I've been focusing on my front end skills having built many projects using React, React Native, Next.js, TailwindCSS, TypeScript and GraphQL. Ideally, it is my goal to take my skillset as a developer and to utilize it to positively impact the healthcare and mental healthcare industry.",
+    "contactmessage": "Feel free to reach out to me via email",
+    "email": "jblack530@gmail.com",
+    "phone": "1-415-316-3516",
+    "address": {
+      "city": "Chico",
+      "state": "CA",
+      "zip": "95928"
+    },
+    "website": "https://www.papareact.com/course",
+    "resumedownload": "../assets/JBResumeCurrent.pdf",
+    "social": [
+
+      {
+       
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/jordanblack89/",
+        "className": "fa fa-linkedin"
+      },
+      {
+       
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/jbotoro",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "San Francisco State University",
+        "degree": "Bachelor's Degree, Biology",
+        "graduated": "2007 - 2012"
+      },
+      {
+        "school": "App Academy",
+        "degree": "Certificate of completion",
+        "graduated": "Jun 2019 - Dec 2019",
+        "description": "1000 hour full stack web development bootcamp in San Francisco: learned React, Ruby on Rails, MERN stack, PostgreSQL and other web development fundamentals"
+      }
+    ],
+    "work": [
+      {
+        "company": "Crestwood Behavioral Health",
+        "title": "Recovery Coach",
+        "years": "Apr 2018 - Jun 2019",
+        "description": "Worked with clients on a daily basis to help them meet their recovery goals"
+      }
+    ],
+    "skills": [
+      {
+        "name": "React",
+        "level": "100%"
+      },
+      {
+        "name": "React Native",
+        "level": "75%"
+      },
+      {
+        "name": "Node.js",
+        "level": "85%"
+      },
+      {
+        "name": "Ruby on Rails",
+        "level": "85%"
+      },
+      {
+        "name": "TailwindCSS",
+        "level": "85%"
+      },
+      {
+        "name": "CSS/HTML",
+        "level": "95%"
+      },
+      {
+        "name": "Next.js",
+        "level": "85%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "95%"
+      },
+      {
+        "name": "TypeScript",
+        "level": "75%"
+      },
+      {
+        "name": "Web Development",
+        "level": "95%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "JBnB Next Lightweight Demo",
+        "category": "",
+        "image": "JBnB.png",
+        "url": "https://jb-bnb.vercel.app/"
+      },
+      {
+        "title": "Hulu Next.js Demo Clone",
+        "category": "",
+        "image": "JBNextHulu.png",
+        "url": "https://www.nexthulutailwind.xyz/"
+      },
+      {
+        "title": "Helio Ecommerce",
+        "category": "",
+        "image": "helio.png",
+        "url": "https://heliolive.herokuapp.com/"
+      },
+      {
+        "title": "Beaucoup Full Stack Hulu Clone (2019)",
+        "category": "",
+        "image": "beaucoup.png",
+        "url": "https://beaucoup.herokuapp.com/#/"
+      },
+      {
+        "title": "TriviaLand MERN project",
+        "category": "",
+        "image": "trivia.png",
+        "url": "https://trivialand-app.herokuapp.com/#/"
+      },
+      {
+        "title": "FlappyBirdJS",
+        "category": "",
+        "image": "flappy.png",
+        "url": "https://jbotoro.github.io/FlappyBirdJS/"
+      }
+    ]
+  }
+}
